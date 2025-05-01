@@ -38,4 +38,4 @@ The **Weather App** is a web-based application that provides real-time weather i
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Shubham-Bhoite/weather-app.git
+   git clone https://github.com/Shubham-Bhoite/Weather-App.git
