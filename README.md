@@ -39,3 +39,19 @@ The **Weather App** is a web-based application that provides real-time weather i
 1. Clone the repository  
    ```bash
    git clone https://github.com/Shubham-Bhoite/Weather-App.git
+
+2. Open the project in your IDE (e.g., Eclipse or IntelliJ).
+
+3. Set up your servlet container (e.g., Apache Tomcat).
+
+4. Download and include any required libraries (e.g., for HTTP requests or JSON parsing).
+
+5. Get your API key from OpenWeather.
+
+6. Insert your API key into the appropriate section of your Java code.
+
+7. Deploy and run the project on your local server.
+
+8. Open your browser and go to:
+   ```bash
+   http://localhost:8080/Weather-App/
