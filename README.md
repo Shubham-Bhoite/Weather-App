@@ -55,3 +55,9 @@ The **Weather App** is a web-based application that provides real-time weather i
 8. Open your browser and go to:
    ```bash
    http://localhost:8080/Weather-App/
+
+## 🙋‍♂️ Author
+
+- **Shubham Rama Bhoite**  
+  [GitHub](https://github.com/Shubham-Bhoite) | [LinkedIn](https://www.linkedin.com/in/shubham-bhoite98/)
+
